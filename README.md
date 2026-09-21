@@ -1,2 +1,3 @@
 UPLOADED AIML BASICS OF PYTHON MODULE ALONG WITH ASSIGNMENT ANSWER
 UPLOADED MODULE 1 :Introduction to Machine Learning and Feature Extraction WITH FEW EXPLORATIONS 
+UPLOADED MODULE 2:Machine Learning terms and metrics
